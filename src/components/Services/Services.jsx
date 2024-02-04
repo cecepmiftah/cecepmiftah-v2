@@ -36,7 +36,8 @@ export const Services = () => {
       >
         <motion.div className="textContainer" variants={variants}>
           <p>
-            I focus on helping your brand grow <br /> and move forward
+            I specialize in crafting captivating user interfaces <br /> and
+            visually appealing web experiences
           </p>
           <hr />
         </motion.div>
@@ -44,7 +45,8 @@ export const Services = () => {
           <div className="title">
             <img src="./people.webp" alt="" />
             <h1>
-              <motion.b whileHover={{ color: "orange" }}>Unique</motion.b> Ideas
+              <motion.b whileHover={{ color: "orange" }}>The optimal</motion.b>{" "}
+              website
             </h1>
           </div>
           <div className="title">
@@ -61,7 +63,7 @@ export const Services = () => {
               whileHover={{ background: "lightgray", color: "black" }}
               className="box"
             >
-              <h2>Branding</h2>
+              <h2>InterfaceInnovate</h2>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
                 voluptates dignissimos, nam distinctio molestiae iusto,
@@ -74,7 +76,7 @@ export const Services = () => {
               whileHover={{ background: "lightgray", color: "black" }}
               className="box"
             >
-              <h2>Branding</h2>
+              <h2>TechVibes</h2>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
                 voluptates dignissimos, nam distinctio molestiae iusto,
@@ -87,20 +89,7 @@ export const Services = () => {
               whileHover={{ background: "lightgray", color: "black" }}
               className="box"
             >
-              <h2>Branding</h2>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
-                voluptates dignissimos, nam distinctio molestiae iusto,
-                accusamus dolor saepe doloremque repellat vitae consectetur amet
-                quam! Repudiandae optio odio fugiat quisquam fugit.
-              </p>
-              <button>Go</button>
-            </motion.div>
-            <motion.div
-              whileHover={{ background: "lightgray", color: "black" }}
-              className="box"
-            >
-              <h2>Branding</h2>
+              <h2>EasyBrowsify</h2>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
                 voluptates dignissimos, nam distinctio molestiae iusto,

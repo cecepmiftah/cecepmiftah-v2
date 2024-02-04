@@ -72,7 +72,7 @@ export const Hero = () => {
         Developer & Web Designer
       </motion.div>
       <div className="imageContainer">
-        <img src="/my-pic2.png" alt="" />
+        <img src="/my-pic.jpeg" alt="" />
       </div>
     </div>
   );
